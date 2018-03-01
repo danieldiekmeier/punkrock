@@ -2,7 +2,7 @@
 
 What if you could build a website in your parent's basement? What if you could punch your laptop and people could get HTML from your server? What if you could be young and have some fun?
 
-```
+```js
 import punkrock from 'punkrock'
 
 function Home (ctx) {
