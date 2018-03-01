@@ -33,4 +33,4 @@ punkrock.listen(8080)
 
 ## Reviews
 
-"`punkrock.listen` is a nice pun" – @timomeh
+"`punkrock.listen` is a nice pun" – [@timomeh](https://github.com/timomeh)
